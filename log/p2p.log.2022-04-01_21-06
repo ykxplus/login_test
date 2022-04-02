@@ -1,0 +1,60 @@
+2022-04-01 20:54:24,300 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 20:54:24,305 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 20:56:40,170 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 20:56:40,171 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 20:58:57,065 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 20:58:57,065 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:00:54,148 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:00:54,148 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:01:20,845 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:01:20,845 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:01:20,983 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:01:21,111 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:01:21,252 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:01:21,355 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:01:21,528 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:01:21,631 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:02:01,553 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:02:01,553 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:02:01,693 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:02:01,830 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:02:01,963 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:02:02,074 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:02:02,336 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:02:02,495 INFO [root] [login_param.py(test01_register:40)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:05:49,591 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:05:49,591 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:05:49,709 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:05:49,728 INFO [root] [login_param.py(test01_register:41)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:05:49,813 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:05:49,833 INFO [root] [login_param.py(test01_register:41)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:05:49,925 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:05:49,949 INFO [root] [login_param.py(test01_register:41)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:05:50,033 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:05:50,051 INFO [root] [login_param.py(test01_register:41)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:05:50,128 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 100, 'description': '图片验证码错误'}
+2022-04-01 21:05:50,197 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:05:50,216 INFO [root] [login_param.py(test01_register:41)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:05:50,301 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:05:50,328 INFO [root] [login_param.py(test01_register:41)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:06:23,053 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:06:23,054 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:06:23,146 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:06:23,163 INFO [root] [login_param.py(test01_register:41)] - register response = {"status":100,"description":"短信验证码不能为空"}
+2022-04-01 21:06:23,163 INFO [root] [login_param.py(test01_register:42)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:06:23,252 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:06:23,274 INFO [root] [login_param.py(test01_register:41)] - register response = {"status":100,"description":"短信验证码不能为空"}
+2022-04-01 21:06:23,274 INFO [root] [login_param.py(test01_register:42)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:06:23,364 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:06:23,396 INFO [root] [login_param.py(test01_register:41)] - register response = {"status":100,"description":"手机已存在!"}
+2022-04-01 21:06:23,397 INFO [root] [login_param.py(test01_register:42)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:06:23,508 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:06:23,527 INFO [root] [login_param.py(test01_register:41)] - register response = {"status":100,"description":"短信验证码不能为空"}
+2022-04-01 21:06:23,528 INFO [root] [login_param.py(test01_register:42)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:06:23,609 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 100, 'description': '图片验证码错误'}
+2022-04-01 21:06:23,932 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:06:23,979 INFO [root] [login_param.py(test01_register:41)] - register response = {"status":100,"description":"短信验证码不能为空"}
+2022-04-01 21:06:23,980 INFO [root] [login_param.py(test01_register:42)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:06:25,101 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:06:25,181 INFO [root] [login_param.py(test01_register:41)] - register response = {"status":100,"description":"短信验证码不能为空"}
+2022-04-01 21:06:25,181 INFO [root] [login_param.py(test01_register:42)] - register response = {'status': 100, 'description': '短信验证码不能为空'}

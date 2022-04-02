@@ -1,0 +1,56 @@
+2022-04-01 21:11:57,747 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:11:57,749 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:11:57,857 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:11:57,980 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:11:58,139 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:11:58,231 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:11:58,308 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 100, 'description': '图片验证码错误'}
+2022-04-01 21:11:58,403 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:11:58,512 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:23,682 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:13:23,682 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:13:23,790 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:23,804 INFO [root] [login_param.py(test01_register:42)] - register response = b'{"status":100,"description":"\xe7\x9f\xad\xe4\xbf\xa1\xe9\xaa\x8c\xe8\xaf\x81\xe7\xa0\x81\xe4\xb8\x8d\xe8\x83\xbd\xe4\xb8\xba\xe7\xa9\xba"}'
+2022-04-01 21:13:23,804 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:23,932 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:23,956 INFO [root] [login_param.py(test01_register:42)] - register response = b'{"status":100,"description":"\xe7\x9f\xad\xe4\xbf\xa1\xe9\xaa\x8c\xe8\xaf\x81\xe7\xa0\x81\xe4\xb8\x8d\xe8\x83\xbd\xe4\xb8\xba\xe7\xa9\xba"}'
+2022-04-01 21:13:23,956 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:24,037 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:24,067 INFO [root] [login_param.py(test01_register:42)] - register response = b'{"status":100,"description":"\xe6\x89\x8b\xe6\x9c\xba\xe5\xb7\xb2\xe5\xad\x98\xe5\x9c\xa8!"}'
+2022-04-01 21:13:24,067 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:13:24,152 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:24,173 INFO [root] [login_param.py(test01_register:42)] - register response = b'{"status":100,"description":"\xe7\x9f\xad\xe4\xbf\xa1\xe9\xaa\x8c\xe8\xaf\x81\xe7\xa0\x81\xe4\xb8\x8d\xe8\x83\xbd\xe4\xb8\xba\xe7\xa9\xba"}'
+2022-04-01 21:13:24,173 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:24,248 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 100, 'description': '图片验证码错误'}
+2022-04-01 21:13:24,354 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:24,377 INFO [root] [login_param.py(test01_register:42)] - register response = b'{"status":100,"description":"\xe7\x9f\xad\xe4\xbf\xa1\xe9\xaa\x8c\xe8\xaf\x81\xe7\xa0\x81\xe4\xb8\x8d\xe8\x83\xbd\xe4\xb8\xba\xe7\xa9\xba"}'
+2022-04-01 21:13:24,377 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:24,462 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:24,481 INFO [root] [login_param.py(test01_register:42)] - register response = b'{"status":100,"description":"\xe7\x9f\xad\xe4\xbf\xa1\xe9\xaa\x8c\xe8\xaf\x81\xe7\xa0\x81\xe4\xb8\x8d\xe8\x83\xbd\xe4\xb8\xba\xe7\xa9\xba"}'
+2022-04-01 21:13:24,482 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:34,484 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:13:34,484 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:13:34,582 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:34,602 INFO [root] [login_param.py(test01_register:42)] - register response = {"status":100,"description":"短信验证码不能为空"}
+2022-04-01 21:13:34,603 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:56,581 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 21:13:56,581 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 21:13:56,749 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:56,766 INFO [root] [login_param.py(test01_register:42)] - register response = http://user-p2p-test.itheima.net/member/public/reg
+2022-04-01 21:13:56,767 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:56,892 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:56,912 INFO [root] [login_param.py(test01_register:42)] - register response = http://user-p2p-test.itheima.net/member/public/reg
+2022-04-01 21:13:56,912 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:57,018 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:57,035 INFO [root] [login_param.py(test01_register:42)] - register response = http://user-p2p-test.itheima.net/member/public/reg
+2022-04-01 21:13:57,035 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-01 21:13:57,113 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:57,129 INFO [root] [login_param.py(test01_register:42)] - register response = http://user-p2p-test.itheima.net/member/public/reg
+2022-04-01 21:13:57,129 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:57,203 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 100, 'description': '图片验证码错误'}
+2022-04-01 21:13:57,303 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:57,325 INFO [root] [login_param.py(test01_register:42)] - register response = http://user-p2p-test.itheima.net/member/public/reg
+2022-04-01 21:13:57,325 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}
+2022-04-01 21:13:57,400 INFO [root] [login_param.py(test01_register:33)] - 获取短信验证码响应{'status': 200, 'description': '短信发送成功'}
+2022-04-01 21:13:57,420 INFO [root] [login_param.py(test01_register:42)] - register response = http://user-p2p-test.itheima.net/member/public/reg
+2022-04-01 21:13:57,421 INFO [root] [login_param.py(test01_register:43)] - register response = {'status': 100, 'description': '短信验证码不能为空'}

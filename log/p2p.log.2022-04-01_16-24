@@ -1,0 +1,8 @@
+2022-04-01 16:18:56,863 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 16:18:56,865 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 16:21:05,284 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 16:21:05,285 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 16:21:08,310 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 16:21:08,310 ERROR [root] [__init__.py(<module>:8)] - errpr
+2022-04-01 16:24:57,819 INFO [root] [__init__.py(<module>:7)] - info
+2022-04-01 16:24:57,819 ERROR [root] [__init__.py(<module>:8)] - errpr
